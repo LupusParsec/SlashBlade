@@ -1,19 +1,20 @@
-﻿flammpfeil.slashblade=SlashBlade
+flammpfeil.slashblade=SlashBlade
 Key.SlashBlade.PS=Summoned Sword
-Key.SlashBlade.SA=SA:StyleAction
+Key.SlashBlade.SA=SA:Style Action
 Key.SlashBlade.LO=Lock-on
-Key.SlashBlade.CA=QT:QuickTurn
+Key.SlashBlade.CA=QT:Quick Turn
 
 flammpfeil.slashblade.config.rustblade.spawnrate=Spawn Rate
 flammpfeil.slashblade.config.rustblade.broken=Already broken
-flammpfeil.slashblade.config.rustblade.scabbardlost=Scabbard is lost
-flammpfeil.slashblade.config.rustblade.drop=Drop rate
+flammpfeil.slashblade.config.rustblade.scabbardlost=Scabbard is Lost
+flammpfeil.slashblade.config.rustblade.drop=Drop Rate
 
 itemGroup.flammpfeil.slashblade=SlashBlade
 item.flammpfeil.slashblade.name=SlashBlade--
 item.flammpfeil.slashblade.proudsoul.name=Proud Soul
 item.flammpfeil.slashblade.proudsoul.soul.name=Proud Soul
 item.flammpfeil.slashblade.proudsoul.ingot.name=Blade Soul Ingot
+item.flammpfeil.slashblade.proudsoul.steel_ingot.name=Blade Soul Steel Ingot
 item.flammpfeil.slashblade.proudsoul.sphere.name=Blade Soul Sphere
 item.flammpfeil.slashblade.proudsoul.tiny.name=Tiny Proud Soul
 item.flammpfeil.slashblade.proudsoul.crystal.name=Blade Soul Crystal
@@ -27,15 +28,15 @@ flammpfeil.sweapon.info.shift=Shift
 flammpfeil.sweapon.info.forDetails=for Details
 flammpfeil.sweapon.info.energy=Energy
 
-flammpfeil.sweapon.info.hfeffect.trunon=turn on : press QT+SA key
-flammpfeil.sweapon.info.hfeffect.trunoff=turn off : press Sneak+QT+SA key
+flammpfeil.sweapon.info.hfeffect.trunon=Turn on: Press QT+SA Key
+flammpfeil.sweapon.info.hfeffect.trunoff=Turn off: Press Sneak+QT+SA Key
 
 flammpfeil.swaepon.info.notowner.msg=§8You are not worthy as my master.
 flammpfeil.swaepon.info.needlevel.msg=§8You need more experience. Requirements level:%1$s
 
 item.flammpfeil.slashblade.wood.name=Anonymity -Wood-
-item.flammpfeil.slashblade.bamboo.name=Anonymity -BambooLight-
-item.flammpfeil.slashblade.silverbamboo.name=Noted -Silver BambooLight-
+item.flammpfeil.slashblade.bamboo.name=Anonymity -Bamboo Light-
+item.flammpfeil.slashblade.silverbamboo.name=Noted -Silver Bamboo Light-
 item.flammpfeil.slashblade.white.name=Sharpness -White-
 item.flammpfeil.slashblade.wrapper.name=Scabbard
 flammpfeil.slashblade.specialattack.slashdimension=Slash Dimension
@@ -56,8 +57,8 @@ item.flammpfeil.slashblade.named.tagayasan.name=Hardwood -Tagayasan-
 item.flammpfeil.slashblade.named.yuzukitukumo.name=Yuzuki -Tukumo-
 item.flammpfeil.slashblade.named.agito.rust.name=Agito Rust
 item.flammpfeil.slashblade.named.agito.name=Agito
-item.flammpfeil.slashblade.named.orotiagito.rust.name=Agito Rust
-item.flammpfeil.slashblade.named.orotiagito.seald.name=Agito
+item.flammpfeil.slashblade.named.orotiagito.rust.name=Orotiagito Rust
+item.flammpfeil.slashblade.named.orotiagito.seald.name=Orotiagito (Sealed)
 item.flammpfeil.slashblade.named.orotiagito.name=Orotiagito
 item.flammpfeil.slashblade.named.sange.name=Sange
 item.flammpfeil.slashblade.named.yasha.name=Yasha
@@ -80,7 +81,7 @@ item.flammpfeil.slashblade.named.koseki.name=Wither Blade
 
 entity.flammpfeil.slashblade.BladeStand.name=Blade Stand
 
-death.attack.directMagic=%1$s was hacked by %2$s using magic blade
+death.attack.directMagic=%1$s was hacked by %2$s using magic blade.
 
 slashblade.seffect.name.WitherEdge=Wither Edge
 slashblade.seffect.name.Limitter=Limitter
@@ -91,7 +92,7 @@ slashblade.rangeattack.false=Summoned Sword
 slashblade.rangeattack.true=Summoned Blade
 
 achievement.flammpfeil.slashblade.slashWoodenSword=Fighting Spirit
-achievement.flammpfeil.slashblade.slashWoodenSword.desc=Try fighting with wooden sword.
+achievement.flammpfeil.slashblade.slashWoodenSword.desc=Try fighting with a Wooden Sword.
 achievement.flammpfeil.slashblade.slashWoodenSword.pos=0,0
 
 achievement.flammpfeil.slashblade.buildWoodenBlade=Anonymity -Wood-
@@ -107,7 +108,7 @@ achievement.flammpfeil.slashblade.tagayasan.desc=Immortal Edge
 achievement.flammpfeil.slashblade.tagayasan.pos=4,-2
 
 achievement.flammpfeil.slashblade.buildSlashBlade=Blade for Slash
-achievement.flammpfeil.slashblade.buildSlashBlade.desc=Hidden possibilities
+achievement.flammpfeil.slashblade.buildSlashBlade.desc=Hidden possibilities.
 achievement.flammpfeil.slashblade.buildSlashBlade.pos=9,0
 
 achievement.flammpfeil.slashblade.enchanted=Secret Arts
@@ -179,7 +180,7 @@ achievement.flammpfeil.slashblade.rankSS=§cSoul Sand
 achievement.flammpfeil.slashblade.rankSS.desc=Base Limit 10
 achievement.flammpfeil.slashblade.rankSS.pos=7,-6
 
-achievement.flammpfeil.slashblade.rankSSS=§cStylish Sharpness Slashblade
+achievement.flammpfeil.slashblade.rankSSS=§cStylish Sharpness SlashBlade
 achievement.flammpfeil.slashblade.rankSSS.desc=Forging Need
 achievement.flammpfeil.slashblade.rankSSS.pos=8,-5
 
