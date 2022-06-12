@@ -5,7 +5,7 @@ Key.SlashBlade.LO=Lock-On
 Key.SlashBlade.CA=QT:Quick Turn
 
 flammpfeil.slashblade.config.rustblade.spawnrate=Spawn Rate
-flammpfeil.slashblade.config.rustblade.broken=Already broken
+flammpfeil.slashblade.config.rustblade.broken=Already Broken
 flammpfeil.slashblade.config.rustblade.scabbardlost=Scabbard is Lost
 flammpfeil.slashblade.config.rustblade.drop=Drop Rate
 
@@ -35,6 +35,7 @@ flammpfeil.sweapon.info.hfeffect.trunoff=Turn off: Press Sneak+QT+SA Key
 flammpfeil.swaepon.info.notowner.msg=§8You are not worthy as my master.
 flammpfeil.swaepon.info.needlevel.msg=§8You need more experience. Requirements level:%1$s
 
+item.custom_dios.name=Custom -Dios-
 item.flammpfeil.slashblade.wood.name=Anonymity -Wood-
 item.flammpfeil.slashblade.bamboo.name=Anonymity -Bamboo Light-
 item.flammpfeil.slashblade.silverbamboo.name=Noted -Silver Bamboo Light-
@@ -51,7 +52,6 @@ flammpfeil.slashblade.specialattack.BlisteringWitherSwords=Blistering Wither Swo
 flammpfeil.slashblade.specialattack.sakuraend=Sakura End
 flammpfeil.slashblade.specialattack.maximumbet=Maximum Bet
 
-item.custom_dios.name=Custom -Dios-
 item.flammpfeil.slashblade.named.name=Anonymity -Nameless-
 item.flammpfeil.slashblade.named.yamato.broken.name=Broken YAMATO
 item.flammpfeil.slashblade.named.yamato.name=YAMATOOo!
