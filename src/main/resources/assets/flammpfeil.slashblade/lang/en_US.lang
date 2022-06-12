@@ -10,6 +10,7 @@ flammpfeil.slashblade.config.rustblade.scabbardlost=Scabbard is Lost
 flammpfeil.slashblade.config.rustblade.drop=Drop Rate
 
 itemGroup.flammpfeil.slashblade=SlashBlade
+
 item.flammpfeil.slashblade.name=SlashBlade--
 item.flammpfeil.slashblade.proudsoul.name=Proud Soul
 item.flammpfeil.slashblade.proudsoul.soul.name=Proud Soul
@@ -50,6 +51,7 @@ flammpfeil.slashblade.specialattack.BlisteringWitherSwords=Blistering Wither Swo
 flammpfeil.slashblade.specialattack.sakuraend=Sakura End
 flammpfeil.slashblade.specialattack.maximumbet=Maximum Bet
 
+item.custom_dios.name=Custom -Dios-
 item.flammpfeil.slashblade.named.name=Anonymity -Nameless-
 item.flammpfeil.slashblade.named.yamato.broken.name=Broken YAMATO
 item.flammpfeil.slashblade.named.yamato.name=YAMATOOo!
