@@ -11,16 +11,16 @@ flammpfeil.slashblade.config.rustblade.drop=Drop rate
 
 itemGroup.flammpfeil.slashblade=SlashBlade
 item.flammpfeil.slashblade.name=SlashBlade--
-item.flammpfeil.slashblade.proudsoul.name=ProudSoul
-item.flammpfeil.slashblade.proudsoul.soul.name=ProudSoul
-item.flammpfeil.slashblade.proudsoul.ingot.name=BladeSoulIngot
-item.flammpfeil.slashblade.proudsoul.sphere.name=BladeSoulSphere
-item.flammpfeil.slashblade.proudsoul.tiny.name=TinyProudSoul
-item.flammpfeil.slashblade.proudsoul.crystal.name=BladeSoulCrystal
-item.flammpfeil.slashblade.proudsoul.trapezohedron.name=BladeSoulTrapezohedron
-flammpfeil.swaepon.info.bewitched=bewitched
-flammpfeil.swaepon.info.magic=enchanted
-flammpfeil.swaepon.info.noname=sealed
+item.flammpfeil.slashblade.proudsoul.name=Proud Soul
+item.flammpfeil.slashblade.proudsoul.soul.name=Proud Soul
+item.flammpfeil.slashblade.proudsoul.ingot.name=Blade Soul Ingot
+item.flammpfeil.slashblade.proudsoul.sphere.name=Blade Soul Sphere
+item.flammpfeil.slashblade.proudsoul.tiny.name=Tiny Proud Soul
+item.flammpfeil.slashblade.proudsoul.crystal.name=Blade Soul Crystal
+item.flammpfeil.slashblade.proudsoul.trapezohedron.name=Blade Soul Trapezohedron
+flammpfeil.swaepon.info.bewitched=Bewitched
+flammpfeil.swaepon.info.magic=Enchanted
+flammpfeil.swaepon.info.noname=Sealed
 
 flammpfeil.sweapon.info.hold=Hold
 flammpfeil.sweapon.info.shift=Shift
@@ -33,190 +33,190 @@ flammpfeil.sweapon.info.hfeffect.trunoff=turn off : press Sneak+QT+SA key
 flammpfeil.swaepon.info.notowner.msg=§8You are not worthy as my master.
 flammpfeil.swaepon.info.needlevel.msg=§8You need more experience. Requirements level:%1$s
 
-item.flammpfeil.slashblade.wood.name=Anonymity-Wood-
-item.flammpfeil.slashblade.bamboo.name=Anonymity-BambooLight-
-item.flammpfeil.slashblade.silverbamboo.name=Noted-SilverBambooLight-
-item.flammpfeil.slashblade.white.name=Sharpness-White-
+item.flammpfeil.slashblade.wood.name=Anonymity -Wood-
+item.flammpfeil.slashblade.bamboo.name=Anonymity -BambooLight-
+item.flammpfeil.slashblade.silverbamboo.name=Noted -Silver BambooLight-
+item.flammpfeil.slashblade.white.name=Sharpness -White-
 item.flammpfeil.slashblade.wrapper.name=Scabbard
-flammpfeil.slashblade.specialattack.slashdimension=SlashDimension
-flammpfeil.slashblade.specialattack.slashdimension_spiral=SlashDimension S
+flammpfeil.slashblade.specialattack.slashdimension=Slash Dimension
+flammpfeil.slashblade.specialattack.slashdimension_spiral=Slash Dimension S
 flammpfeil.slashblade.specialattack.drive=Drive
-flammpfeil.slashblade.specialattack.vdrive=VerticalDrive
-flammpfeil.slashblade.specialattack.waveedge=WaveEdge
+flammpfeil.slashblade.specialattack.vdrive=Vertical Drive
+flammpfeil.slashblade.specialattack.waveedge=Wave Edge
 flammpfeil.slashblade.specialattack.spear=Piercing
-flammpfeil.slashblade.specialattack.circleslash=CircleSlash
-flammpfeil.slashblade.specialattack.BlisteringWitherSwords=BlisteringWitherSwords
-flammpfeil.slashblade.specialattack.sakuraend=SakuraEnd
-flammpfeil.slashblade.specialattack.maximumbet=MaximumBet
+flammpfeil.slashblade.specialattack.circleslash=Circle Slash
+flammpfeil.slashblade.specialattack.BlisteringWitherSwords=Blistering Wither Swords
+flammpfeil.slashblade.specialattack.sakuraend=Sakura End
+flammpfeil.slashblade.specialattack.maximumbet=Maximum Bet
 
-item.flammpfeil.slashblade.named.name=anonymity-nameless-
-item.flammpfeil.slashblade.named.yamato.broken.name=brokenYAMATO
+item.flammpfeil.slashblade.named.name=Anonymity -Nameless-
+item.flammpfeil.slashblade.named.yamato.broken.name=Broken YAMATO
 item.flammpfeil.slashblade.named.yamato.name=YAMATOOo!
-item.flammpfeil.slashblade.named.tagayasan.name=hardwood-tagayasan-
-item.flammpfeil.slashblade.named.yuzukitukumo.name=yuzuki-tukumo-
-item.flammpfeil.slashblade.named.agito.rust.name=agito rust
-item.flammpfeil.slashblade.named.agito.name=agito
-item.flammpfeil.slashblade.named.orotiagito.rust.name=agito rust
-item.flammpfeil.slashblade.named.orotiagito.seald.name=agito
-item.flammpfeil.slashblade.named.orotiagito.name=orotiagito
-item.flammpfeil.slashblade.named.sange.name=sange
-item.flammpfeil.slashblade.named.yasha.name=yasha
-item.flammpfeil.slashblade.named.yashatrue.name=yasha
-item.flammpfeil.slashblade.wrapformat=Heirloom-%s-
-item.flammpfeil.slashblade.wrapformat.low=Noted-%s-
-item.wrap.BambooMod.katana.name=ruby-nameless-
-item.wrap.reforged.wooden_katana.name=balkon-wood-
-item.wrap.reforged.stone_katana.name=balkon-rock-
-item.wrap.reforged.iron_katana.name=balkon-steel-
-item.wrap.reforged.diamond_katana.name=balkon-diamond-
-item.wrap.reforged.golden_katana.name=balkon-gold-
-item.flammpfeil.slashblade.named.fox.white.name=Crescent-Weiss Fox-
-item.flammpfeil.slashblade.named.fox.black.name=Crescent-Haze Fox-
-item.flammpfeil.slashblade.named.muramasa.name=muramasa
-item.flammpfeil.slashblade.named.sabigatana.name=rust blade
-item.flammpfeil.slashblade.named.doutanuki.name=doutanuki
+item.flammpfeil.slashblade.named.tagayasan.name=Hardwood -Tagayasan-
+item.flammpfeil.slashblade.named.yuzukitukumo.name=Yuzuki -Tukumo-
+item.flammpfeil.slashblade.named.agito.rust.name=Agito Rust
+item.flammpfeil.slashblade.named.agito.name=Agito
+item.flammpfeil.slashblade.named.orotiagito.rust.name=Agito Rust
+item.flammpfeil.slashblade.named.orotiagito.seald.name=Agito
+item.flammpfeil.slashblade.named.orotiagito.name=Orotiagito
+item.flammpfeil.slashblade.named.sange.name=Sange
+item.flammpfeil.slashblade.named.yasha.name=Yasha
+item.flammpfeil.slashblade.named.yashatrue.name=Yasha
+item.flammpfeil.slashblade.wrapformat=Heirloom -%s-
+item.flammpfeil.slashblade.wrapformat.low=Noted -%s-
+item.wrap.BambooMod.katana.name=Ruby -Nameless-
+item.wrap.reforged.wooden_katana.name=Balkon -Wood-
+item.wrap.reforged.stone_katana.name=Balkon -Rock-
+item.wrap.reforged.iron_katana.name=Balkon -Steel-
+item.wrap.reforged.diamond_katana.name=Balkon -Diamond-
+item.wrap.reforged.golden_katana.name=Balkon -Gold-
+item.flammpfeil.slashblade.named.fox.white.name=Crescent -Weiss Fox-
+item.flammpfeil.slashblade.named.fox.black.name=Crescent -Haze Fox-
+item.flammpfeil.slashblade.named.muramasa.name=Muramasa
+item.flammpfeil.slashblade.named.sabigatana.name=Rust Blade
+item.flammpfeil.slashblade.named.doutanuki.name=Doutanuki
 
-item.flammpfeil.slashblade.named.koseki.name=WitherBlade
+item.flammpfeil.slashblade.named.koseki.name=Wither Blade
 
-entity.flammpfeil.slashblade.BladeStand.name=BladeStand
+entity.flammpfeil.slashblade.BladeStand.name=Blade Stand
 
 death.attack.directMagic=%1$s was hacked by %2$s using magic blade
 
-slashblade.seffect.name.WitherEdge=WitherEdge
+slashblade.seffect.name.WitherEdge=Wither Edge
 slashblade.seffect.name.Limitter=Limitter
-slashblade.seffect.name.BlastEdge=BlastEdge
+slashblade.seffect.name.BlastEdge=Blast Edge
 slashblade.seffect.name.HFCustom=HFCustom
 
-slashblade.rangeattack.false=SummonedSword
-slashblade.rangeattack.true=SummonedBlade
+slashblade.rangeattack.false=Summoned Sword
+slashblade.rangeattack.true=Summoned Blade
 
 achievement.flammpfeil.slashblade.slashWoodenSword=Fighting Spirit
 achievement.flammpfeil.slashblade.slashWoodenSword.desc=Try fighting with wooden sword.
 achievement.flammpfeil.slashblade.slashWoodenSword.pos=0,0
 
-achievement.flammpfeil.slashblade.buildWoodenBlade=Anonymity-Wood-
-achievement.flammpfeil.slashblade.buildWoodenBlade.desc=normal wood katana
+achievement.flammpfeil.slashblade.buildWoodenBlade=Anonymity -Wood-
+achievement.flammpfeil.slashblade.buildWoodenBlade.desc=Normal Wood Katana
 achievement.flammpfeil.slashblade.buildWoodenBlade.pos=3,0
 
 achievement.flammpfeil.slashblade.takemitu.pos=3,3
 achievement.flammpfeil.slashblade.ginsitakemitu.pos=5,3
 achievement.flammpfeil.slashblade.saya.pos=6, 5
 
-achievement.flammpfeil.slashblade.tagayasan=iron wood
-achievement.flammpfeil.slashblade.tagayasan.desc=immortal edge
+achievement.flammpfeil.slashblade.tagayasan=Iron Wood
+achievement.flammpfeil.slashblade.tagayasan.desc=Immortal Edge
 achievement.flammpfeil.slashblade.tagayasan.pos=4,-2
 
-achievement.flammpfeil.slashblade.buildSlashBlade=Blade for slash
+achievement.flammpfeil.slashblade.buildSlashBlade=Blade for Slash
 achievement.flammpfeil.slashblade.buildSlashBlade.desc=Hidden possibilities
 achievement.flammpfeil.slashblade.buildSlashBlade.pos=9,0
 
-achievement.flammpfeil.slashblade.enchanted=SecretArts
-achievement.flammpfeil.slashblade.enchanted.desc=Ennchanted
+achievement.flammpfeil.slashblade.enchanted=Secret Arts
+achievement.flammpfeil.slashblade.enchanted.desc=Enchanted
 achievement.flammpfeil.slashblade.enchanted.pos=10,1
 
-achievement.flammpfeil.slashblade.bewitched=Living edge
-achievement.flammpfeil.slashblade.bewitched.desc=Soul of name
+achievement.flammpfeil.slashblade.bewitched=Living Edge
+achievement.flammpfeil.slashblade.bewitched.desc=Soul of Name
 achievement.flammpfeil.slashblade.bewitched.pos=11,2
 
-achievement.flammpfeil.slashblade.tukumo=yuzuki-tukumo-
-achievement.flammpfeil.slashblade.tukumo.desc=Pride of the clan
+achievement.flammpfeil.slashblade.tukumo=Yuzuki -Tukumo-
+achievement.flammpfeil.slashblade.tukumo.desc=Pride of the Clan
 achievement.flammpfeil.slashblade.tukumo.pos=11,-3
 
 
 achievement.flammpfeil.slashblade.muramasa=Chizuru - Thousand Crane
-achievement.flammpfeil.slashblade.muramasa.desc=Fragments of the Demon Blade of legend
+achievement.flammpfeil.slashblade.muramasa.desc=Fragments of the Demon Blade of Legend
 achievement.flammpfeil.slashblade.muramasa.pos=12,0
 
-achievement.flammpfeil.slashblade.buildWhiteSheath=Sharpness-White-
-achievement.flammpfeil.slashblade.buildWhiteSheath.desc=steel edge
+achievement.flammpfeil.slashblade.buildWhiteSheath=Sharpness -White-
+achievement.flammpfeil.slashblade.buildWhiteSheath.desc=Steel Edge
 achievement.flammpfeil.slashblade.buildWhiteSheath.pos=6,0
 
-achievement.flammpfeil.slashblade.brokenWhiteSheath=Broken-White-
+achievement.flammpfeil.slashblade.brokenWhiteSheath=Broken -White-
 achievement.flammpfeil.slashblade.brokenWhiteSheath.desc=Brittle
 achievement.flammpfeil.slashblade.brokenWhiteSheath.pos=7,1
 
-achievement.flammpfeil.slashblade.noname=anonymity-nameless-
-achievement.flammpfeil.slashblade.noname.desc=tragedy mixed repair
+achievement.flammpfeil.slashblade.noname=Anonymity -Nameless-
+achievement.flammpfeil.slashblade.noname.desc=Tragedy Mixed Repair
 achievement.flammpfeil.slashblade.noname.pos=-3,3
 
-achievement.flammpfeil.slashblade.koseki=WitherBlade
-achievement.flammpfeil.slashblade.koseki.desc=stone edge
+achievement.flammpfeil.slashblade.koseki=Wither Blade
+achievement.flammpfeil.slashblade.koseki.desc=Stone Edge
 achievement.flammpfeil.slashblade.koseki.pos=-4,5
 
-achievement.flammpfeil.slashblade.hundredKill=100 killer
-achievement.flammpfeil.slashblade.hundredKill.desc=edge eater
+achievement.flammpfeil.slashblade.hundredKill=100 Killer
+achievement.flammpfeil.slashblade.hundredKill.desc=Edge Eater
 achievement.flammpfeil.slashblade.hundredKill.pos=1,-4
 
-achievement.flammpfeil.slashblade.thousandKill=1000 killer
-achievement.flammpfeil.slashblade.thousandKill.desc=cut down
+achievement.flammpfeil.slashblade.thousandKill=1000 Killer
+achievement.flammpfeil.slashblade.thousandKill.desc=Cut Down
 achievement.flammpfeil.slashblade.thousandKill.pos=2,-3
 
-achievement.flammpfeil.slashblade.soulEater=soul eater
-achievement.flammpfeil.slashblade.soulEater.desc=repair edge
+achievement.flammpfeil.slashblade.soulEater=Soul Eater
+achievement.flammpfeil.slashblade.soulEater.desc=Repair Edge
 achievement.flammpfeil.slashblade.soulEater.pos=1,-2
 
 achievement.flammpfeil.slashblade.rankD=§fDirt
-achievement.flammpfeil.slashblade.rankD.desc=attack limitter
+achievement.flammpfeil.slashblade.rankD.desc=Attack Limitter
 achievement.flammpfeil.slashblade.rankD.pos=2,-6
 
 achievement.flammpfeil.slashblade.rankC=§9Coal
-achievement.flammpfeil.slashblade.rankC.desc=max 2
+achievement.flammpfeil.slashblade.rankC.desc=Max 2
 achievement.flammpfeil.slashblade.rankC.pos=3,-6
 
 achievement.flammpfeil.slashblade.rankB=§eBedrock
-achievement.flammpfeil.slashblade.rankB.desc=unlock attack level
+achievement.flammpfeil.slashblade.rankB.desc=Unlock Attack Level
 achievement.flammpfeil.slashblade.rankB.pos=4,-6
 
 achievement.flammpfeil.slashblade.rankA=§cAir
-achievement.flammpfeil.slashblade.rankA.desc=normal
+achievement.flammpfeil.slashblade.rankA.desc=Normal
 achievement.flammpfeil.slashblade.rankA.pos=5,-6
 
 achievement.flammpfeil.slashblade.rankS=§cSnow
-achievement.flammpfeil.slashblade.rankS.desc=unlock level effect : 1000 killed
+achievement.flammpfeil.slashblade.rankS.desc=Unlock Level Effect: 1000 Killed
 achievement.flammpfeil.slashblade.rankS.pos=6,-6
 
 achievement.flammpfeil.slashblade.rankSS=§cSoul Sand
-achievement.flammpfeil.slashblade.rankSS.desc=base limit 10
+achievement.flammpfeil.slashblade.rankSS.desc=Base Limit 10
 achievement.flammpfeil.slashblade.rankSS.pos=7,-6
 
 achievement.flammpfeil.slashblade.rankSSS=§cStylish Sharpness Slashblade
-achievement.flammpfeil.slashblade.rankSSS.desc=forging need
+achievement.flammpfeil.slashblade.rankSSS.desc=Forging Need
 achievement.flammpfeil.slashblade.rankSSS.pos=8,-5
 
 achievement.flammpfeil.slashblade.proudSoul=Proud Soul
-achievement.flammpfeil.slashblade.proudSoul.desc=blade soul
+achievement.flammpfeil.slashblade.proudSoul.desc=Blade Soul
 achievement.flammpfeil.slashblade.proudSoul.pos=-3,-3
 
-achievement.flammpfeil.slashblade.tinySoul=Tiny piece
-achievement.flammpfeil.slashblade.tinySoul.desc=blade piece
+achievement.flammpfeil.slashblade.tinySoul=Tiny Piece
+achievement.flammpfeil.slashblade.tinySoul.desc=Blade Piece
 achievement.flammpfeil.slashblade.tinySoul.pos=-2,-4
 
-achievement.flammpfeil.slashblade.soulIngot=spiritual ingot
-achievement.flammpfeil.slashblade.soulIngot.desc=forged burning soul
+achievement.flammpfeil.slashblade.soulIngot=Spiritual Ingot
+achievement.flammpfeil.slashblade.soulIngot.desc=Forged Burning Soul
 achievement.flammpfeil.slashblade.soulIngot.pos=-4,-2
 
-achievement.flammpfeil.slashblade.soulSphere=pure sphere
-achievement.flammpfeil.slashblade.soulSphere.desc=spiritual crystal
+achievement.flammpfeil.slashblade.soulSphere=Pure Sphere
+achievement.flammpfeil.slashblade.soulSphere.desc=Spiritual Crystal
 achievement.flammpfeil.slashblade.soulSphere.pos=-5,-1
 
-achievement.flammpfeil.slashblade.soulCrystal=pure crystal
-achievement.flammpfeil.slashblade.soulCrystal.desc=blade soul crystal<br>burning BladeStand < Click ProudSoul
+achievement.flammpfeil.slashblade.soulCrystal=Pure Crystal
+achievement.flammpfeil.slashblade.soulCrystal.desc=Blade Soul Crystal<br>Burning Blade Stand < Click Proud Soul
 achievement.flammpfeil.slashblade.soulCrystal.pos=-7,-3
 
 achievement.flammpfeil.slashblade.namedbladeSoul=Named Blade Soul
-achievement.flammpfeil.slashblade.namedbladeSoul.desc=burning BladeStand < Click Enchanted ProudSoul<br>or DefeatTheBoss
+achievement.flammpfeil.slashblade.namedbladeSoul.desc=Burning Blade Stand < Click Enchanted Proud Soul<br>or Defeat The Boss
 achievement.flammpfeil.slashblade.namedbladeSoul.pos=-8,-4
 
-achievement.flammpfeil.slashblade.soulTrapezohedron=bladesoul trapezohedron
-achievement.flammpfeil.slashblade.soulTrapezohedron.desc=burning BladeStand < Click pure blade soul crystal<br>owner registration key
+achievement.flammpfeil.slashblade.soulTrapezohedron=Blade Soul Trapezohedron
+achievement.flammpfeil.slashblade.soulTrapezohedron.desc=Burning Blade Stand < Click Pure Blade Soul Crystal<br>Owner Registration Key
 achievement.flammpfeil.slashblade.soulTrapezohedron.pos=-9,-2
 
-achievement.flammpfeil.slashblade.enchantmentSoul=force fragment
-achievement.flammpfeil.slashblade.enchantmentSoul.desc=click! blade stand
+achievement.flammpfeil.slashblade.enchantmentSoul=Force Fragment
+achievement.flammpfeil.slashblade.enchantmentSoul.desc=Click! Blade Stand
 achievement.flammpfeil.slashblade.enchantmentSoul.pos=-2,-1
 
-achievement.flammpfeil.slashblade.bladeStand=BladeStand
-achievement.flammpfeil.slashblade.bladeStand.desc=get:empty slot
+achievement.flammpfeil.slashblade.bladeStand=Blade Stand
+achievement.flammpfeil.slashblade.bladeStand.desc=Get: Empty Slot
 achievement.flammpfeil.slashblade.bladeStand.pos=-3,0
 
 achievement.flammpfeil.slashblade.wrap.BambooMod.katana.pos=9, 6
@@ -232,20 +232,20 @@ achievement.flammpfeil.slashblade.wrap.weaponmod.katana.gold.pos=11, 11
 achievement.flammpfeil.slashblade.wrap.Wa.katana.pos=8, 12
 achievement.flammpfeil.slashblade.wrap.Wa.tachi.pos=9, 13
 
-achievement.flammpfeil.slashblade.brokenYamato=broken YAMATO
-achievement.flammpfeil.slashblade.brokenYamato.desc=Phantom of mirrored
+achievement.flammpfeil.slashblade.brokenYamato=Broken YAMATO
+achievement.flammpfeil.slashblade.brokenYamato.desc=Phantom of Mirrored
 achievement.flammpfeil.slashblade.brokenYamato.pos=-2, 6
 
 achievement.flammpfeil.slashblade.yamato=YAMATOOo!
-achievement.flammpfeil.slashblade.yamato.desc=Demon Blade of legend - another world
+achievement.flammpfeil.slashblade.yamato.desc=Demon Blade of Legend - Another World
 achievement.flammpfeil.slashblade.yamato.pos=0, 6
 
-achievement.flammpfeil.slashblade.sabigatana=rust edge
-achievement.flammpfeil.slashblade.sabigatana.desc=edge of brave warrior
+achievement.flammpfeil.slashblade.sabigatana=Rust Edge
+achievement.flammpfeil.slashblade.sabigatana.desc=Edge of Brave Warrior
 achievement.flammpfeil.slashblade.sabigatana.pos=-2, 9
 
-achievement.flammpfeil.slashblade.doutanuki=mighty edge
-achievement.flammpfeil.slashblade.doutanuki.desc=strong powerful
+achievement.flammpfeil.slashblade.doutanuki=Mighty Edge
+achievement.flammpfeil.slashblade.doutanuki.desc=Strong Powerful
 achievement.flammpfeil.slashblade.doutanuki.pos=0, 9
 
 achievement.flammpfeil.slashblade.agito.rust.pos=15, -3
@@ -265,11 +265,11 @@ achievement.flammpfeil.slashblade.fluorescentbar.pos=15, -0
 achievement.flammpfeil.slashblade.snowcrow.pos=17, -0
 
 achievement.flammpfeil.slashblade.phantomSword=Summoned Swords
-achievement.flammpfeil.slashblade.phantomSword.desc=power of sparda<br>Power enchanted
+achievement.flammpfeil.slashblade.phantomSword.desc=Power of Sparda<br>Power Enchanted
 achievement.flammpfeil.slashblade.phantomSword.pos=-6,-5
 
 achievement.flammpfeil.slashblade.phantomBlade=Summoned Blades
-achievement.flammpfeil.slashblade.phantomBlade.desc=power of soul<br>switch BladeSphere click
+achievement.flammpfeil.slashblade.phantomBlade.desc=Power of Soul<br>Switch Blade Sphere Click
 achievement.flammpfeil.slashblade.phantomBlade.pos=-7,-6
 
 
