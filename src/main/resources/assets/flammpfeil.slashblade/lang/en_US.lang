@@ -1,8 +1,8 @@
 flammpfeil.slashblade=SlashBlade
 Key.SlashBlade.PS=Summoned Sword
-Key.SlashBlade.SA=SA:Style Action
+Key.SlashBlade.SA=SA: Style Action
 Key.SlashBlade.LO=Lock-On
-Key.SlashBlade.CA=QT:Quick Turn
+Key.SlashBlade.CA=QT: Quick Turn
 
 flammpfeil.slashblade.config.rustblade.spawnrate=Spawn Rate
 flammpfeil.slashblade.config.rustblade.broken=Already Broken
@@ -16,6 +16,7 @@ item.flammpfeil.slashblade.proudsoul.name=Proud Soul
 item.flammpfeil.slashblade.proudsoul.soul.name=Proud Soul
 item.flammpfeil.slashblade.proudsoul.ingot.name=Blade Soul Ingot
 item.flammpfeil.slashblade.proudsoul.steel_ingot.name=Blade Soul Steel Ingot
+item.flammpfeil.slashblade.proudsoul.silver_ingot.name=Blade Soul Silver Ingot
 item.flammpfeil.slashblade.proudsoul.sphere.name=Blade Soul Sphere
 item.flammpfeil.slashblade.proudsoul.tiny.name=Tiny Proud Soul
 item.flammpfeil.slashblade.proudsoul.crystal.name=Blade Soul Crystal
@@ -33,7 +34,7 @@ flammpfeil.sweapon.info.hfeffect.trunon=Turn on: Press QT+SA Key
 flammpfeil.sweapon.info.hfeffect.trunoff=Turn off: Press Sneak+QT+SA Key
 
 flammpfeil.swaepon.info.notowner.msg=§8You are not worthy as my master.
-flammpfeil.swaepon.info.needlevel.msg=§8You need more experience. Requirements level:%1$s
+flammpfeil.swaepon.info.needlevel.msg=§8You need more experience. Requirements level: %1$s
 
 item.custom_dios.name=Custom -Dios-
 item.flammpfeil.slashblade.wood.name=Anonymity -Wood-
@@ -88,7 +89,7 @@ death.attack.directMagic=%1$s was hacked by %2$s using magic blade.
 slashblade.seffect.name.WitherEdge=Wither Edge
 slashblade.seffect.name.Limitter=Limitter
 slashblade.seffect.name.BlastEdge=Blast Edge
-slashblade.seffect.name.HFCustom=HFCustom
+slashblade.seffect.name.HFCustom=HF Custom
 
 slashblade.rangeattack.false=Summoned Sword
 slashblade.rangeattack.true=Summoned Blade
