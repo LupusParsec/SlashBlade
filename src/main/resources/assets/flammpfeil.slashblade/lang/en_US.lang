@@ -3,6 +3,7 @@ Key.SlashBlade.PS=Summoned Sword
 Key.SlashBlade.SA=SA: Style Action
 Key.SlashBlade.LO=Lock-On
 Key.SlashBlade.CA=QT: Quick Turn
+key.flammfeil.slashblade.mode_change=Change Katana's Mode
 
 flammpfeil.slashblade.config.rustblade.spawnrate=Spawn Rate
 flammpfeil.slashblade.config.rustblade.broken=Already Broken
